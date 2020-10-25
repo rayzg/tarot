@@ -1,79 +1,80 @@
 label,image,score,trump-rank,diamond-suit,heart-suit,spade-suit,club-suit,diamond-rank,heart-rank,spade-rank,club-rank
-excuse,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/excuse.png,4,★ ,,,,,,,,
-atout-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-1.png,4,1,,,,,,,,
-atout-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-2.png,,2,,,,,,,,
-atout-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-3.png,,3,,,,,,,,
-atout-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-4.png,,4,,,,,,,,
-atout-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-5.png,,5,,,,,,,,
-atout-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-6.png,,6,,,,,,,,
-atout-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-7.png,,7,,,,,,,,
-atout-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-8.png,,8,,,,,,,,
-atout-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-9.png,,9,,,,,,,,
-atout-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-10.png,,10,,,,,,,,
-atout-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-11.png,,11,,,,,,,,
-atout-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-12.png,,12,,,,,,,,
-atout-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-13.png,,13,,,,,,,,
-atout-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-14.png,,14,,,,,,,,
-atout-15,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-15.png,,15,,,,,,,,
-atout-16,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-16.png,,16,,,,,,,,
-atout-17,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-17.png,,17,,,,,,,,
-atout-18,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-18.png,,18,,,,,,,,
-atout-19,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-19.png,,19,,,,,,,,
-atout-20,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-20.png,,20,,,,,,,,
-atout-21,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/atout-21.png,4,21,,,,,,,,
-carreau-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-1.png,,,♦,,,,1,,,
-carreau-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-2.png,,,♦,,,,2,,,
-carreau-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-3.png,,,♦,,,,3,,,
-carreau-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-4.png,,,♦,,,,4,,,
-carreau-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-5.png,,,♦,,,,5,,,
-carreau-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-6.png,,,♦,,,,6,,,
-carreau-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-7.png,,,♦,,,,7,,,
-carreau-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-8.png,,,♦,,,,8,,,
-carreau-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-9.png,,,♦,,,,9,,,
-carreau-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-10.png,,,♦,,,,10,,,
-carreau-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-11.png,1,,♦,,,,V,,,
-carreau-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-12.png,2,,♦,,,,C,,,
-carreau-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-13.png,3,,♦,,,,D,,,
-carreau-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/carreau-14.png,4,,♦,,,,R,,,
-coeur-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-1.png,,,,♥,,,,1,,
-coeur-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-2.png,,,,♥,,,,2,,
-coeur-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-3.png,,,,♥,,,,3,,
-coeur-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-4.png,,,,♥,,,,4,,
-coeur-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-5.png,,,,♥,,,,5,,
-coeur-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-6.png,,,,♥,,,,6,,
-coeur-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-7.png,,,,♥,,,,7,,
-coeur-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-8.png,,,,♥,,,,8,,
-coeur-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-9.png,,,,♥,,,,9,,
-coeur-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-10.png,,,,♥,,,,10,,
-coeur-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-11.png,1,,,♥,,,,V,,
-coeur-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-12.png,2,,,♥,,,,C,,
-coeur-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-13.png,3,,,♥,,,,D,,
-coeur-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/coeur-14.png,4,,,♥,,,,R,,
-pic-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-1.png,,,,,♠,,,,1,
-pic-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-2.png,,,,,♠,,,,2,
-pic-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-3.png,,,,,♠,,,,3,
-pic-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-4.png,,,,,♠,,,,4,
-pic-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-5.png,,,,,♠,,,,5,
-pic-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-6.png,,,,,♠,,,,6,
-pic-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-7.png,,,,,♠,,,,7,
-pic-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-8.png,,,,,♠,,,,8,
-pic-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-9.png,,,,,♠,,,,9,
-pic-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-10.png,,,,,♠,,,,10,
-pic-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-11.png,1,,,,♠,,,,V,
-pic-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-12.png,2,,,,♠,,,,C,
-pic-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-13.png,3,,,,♠,,,,D,
-pic-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/pic-14.png,4,,,,♠,,,,R,
-trefle-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-1.png,,,,,,♣ ,,,,1
-trefle-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-2.png,,,,,,♣ ,,,,2
-trefle-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-3.png,,,,,,♣ ,,,,3
-trefle-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-4.png,,,,,,♣ ,,,,4
-trefle-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-5.png,,,,,,♣ ,,,,5
-trefle-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-6.png,,,,,,♣ ,,,,6
-trefle-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-7.png,,,,,,♣ ,,,,7
-trefle-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-8.png,,,,,,♣ ,,,,8
-trefle-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-9.png,,,,,,♣ ,,,,9
-trefle-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-10.png,,,,,,♣ ,,,,10
-trefle-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-11.png,1,,,,,♣ ,,,,V
-trefle-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-12.png,2,,,,,♣ ,,,,C
-trefle-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-13.png,3,,,,,♣ ,,,,D
-trefle-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/trefle-14.png,4,,,,,♣ ,,,,R
+layout,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_Excuse.jpg,4,22,♦,♥,♠,♣ ,10,10,10,10
+excuse,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_Excuse.jpg,4,★ ,,,,,,,,
+atout-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_01.jpg,4,1,,,,,,,,
+atout-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_02.jpg,,2,,,,,,,,
+atout-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_03.jpg,,3,,,,,,,,
+atout-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_04.jpg,,4,,,,,,,,
+atout-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_05.jpg,,5,,,,,,,,
+atout-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_06.jpg,,6,,,,,,,,
+atout-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_07.jpg,,7,,,,,,,,
+atout-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_08.jpg,,8,,,,,,,,
+atout-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_09.jpg,,9,,,,,,,,
+atout-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_10.jpg,,10,,,,,,,,
+atout-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_11.jpg,,11,,,,,,,,
+atout-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_12.jpg,,12,,,,,,,,
+atout-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_13.jpg,,13,,,,,,,,
+atout-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_14.jpg,,14,,,,,,,,
+atout-15,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_15.jpg,,15,,,,,,,,
+atout-16,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_16.jpg,,16,,,,,,,,
+atout-17,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_17.jpg,,17,,,,,,,,
+atout-18,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_18.jpg,,18,,,,,,,,
+atout-19,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_19.jpg,,19,,,,,,,,
+atout-20,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_20.jpg,,20,,,,,,,,
+atout-21,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_21.jpg,4,21,,,,,,,,
+carreau-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Ace.jpg,,,♦,,,,1,,,
+carreau-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_02.jpg,,,♦,,,,2,,,
+carreau-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_03.jpg,,,♦,,,,3,,,
+carreau-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_04.jpg,,,♦,,,,4,,,
+carreau-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_05.jpg,,,♦,,,,5,,,
+carreau-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_06.jpg,,,♦,,,,6,,,
+carreau-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_07.jpg,,,♦,,,,7,,,
+carreau-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_08.jpg,,,♦,,,,8,,,
+carreau-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_09.jpg,,,♦,,,,9,,,
+carreau-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_10.jpg,,,♦,,,,10,,,
+carreau-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Jack.jpg,1,,♦,,,,V,,,
+carreau-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Knight.jpg,2,,♦,,,,C,,,
+carreau-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Queen.jpg,3,,♦,,,,D,,,
+carreau-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_King.jpg,4,,♦,,,,R,,,
+coeur-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Ace.jpg,,,,♥,,,,1,,
+coeur-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_02.jpg,,,,♥,,,,2,,
+coeur-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_03.jpg,,,,♥,,,,3,,
+coeur-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_04.jpg,,,,♥,,,,4,,
+coeur-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_05.jpg,,,,♥,,,,5,,
+coeur-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_06.jpg,,,,♥,,,,6,,
+coeur-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_07.jpg,,,,♥,,,,7,,
+coeur-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_08.jpg,,,,♥,,,,8,,
+coeur-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_09.jpg,,,,♥,,,,9,,
+coeur-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_10.jpg,,,,♥,,,,10,,
+coeur-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Jack.jpg,1,,,♥,,,,V,,
+coeur-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Knight.jpg,2,,,♥,,,,C,,
+coeur-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Queen.jpg,3,,,♥,,,,D,,
+coeur-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_King.jpg,4,,,♥,,,,R,,
+pic-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Ace.jpg,,,,,♠,,,,1,
+pic-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_02.jpg,,,,,♠,,,,2,
+pic-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_03.jpg,,,,,♠,,,,3,
+pic-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_04.jpg,,,,,♠,,,,4,
+pic-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_05.jpg,,,,,♠,,,,5,
+pic-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_06.jpg,,,,,♠,,,,6,
+pic-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_07.jpg,,,,,♠,,,,7,
+pic-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_08.jpg,,,,,♠,,,,8,
+pic-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_09.jpg,,,,,♠,,,,9,
+pic-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_10.jpg,,,,,♠,,,,10,
+pic-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Jack.jpg,1,,,,♠,,,,V,
+pic-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Knight.jpg,2,,,,♠,,,,C,
+pic-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Queen.jpg,3,,,,♠,,,,D,
+pic-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_King.jpg,4,,,,♠,,,,R,
+trefle-01,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Ace.jpg,,,,,,♣ ,,,,1
+trefle-02,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_02.jpg,,,,,,♣ ,,,,2
+trefle-03,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_03.jpg,,,,,,♣ ,,,,3
+trefle-04,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_04.jpg,,,,,,♣ ,,,,4
+trefle-05,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_05.jpg,,,,,,♣ ,,,,5
+trefle-06,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_06.jpg,,,,,,♣ ,,,,6
+trefle-07,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_07.jpg,,,,,,♣ ,,,,7
+trefle-08,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_08.jpg,,,,,,♣ ,,,,8
+trefle-09,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_09.jpg,,,,,,♣ ,,,,9
+trefle-10,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_10.jpg,,,,,,♣ ,,,,10
+trefle-11,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Jack.jpg,1,,,,,♣ ,,,,V
+trefle-12,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Knight.jpg,2,,,,,♣ ,,,,C
+trefle-13,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Queen.jpg,3,,,,,♣ ,,,,D
+trefle-14,https://raw.githubusercontent.com/rayzg/tarot/master/playingcards.io/tarot-nouveau/Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_King.jpg,4,,,,,♣ ,,,,R

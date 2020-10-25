@@ -1,0 +1,41 @@
+label,trump-symbol,trick-symbol,trump-rank,diamond-suit,heart-suit,spade-suit,club-suit,diamond-rank,heart-rank,spade-rank,club-rank,trick-number
+layout,▢,⬤ ,22,♦,♥,♠,♣ ,10,10,10,10,10
+excuse,▢,,★ ,,,,,,,,,
+atout-01,▢,,1,,,,,,,,,
+atout-21,▢,,21,,,,,,,,,
+carreau-11,,,,♦,,,,V,,,,
+carreau-12,,,,♦,,,,C,,,,
+carreau-13,,,,♦,,,,D,,,,
+carreau-14,,,,♦,,,,R,,,,
+coeur-11,,,,,♥,,,,V,,,
+coeur-12,,,,,♥,,,,C,,,
+coeur-13,,,,,♥,,,,D,,,
+coeur-14,,,,,♥,,,,R,,,
+pic-11,,,,,,♠,,,,V,,
+pic-12,,,,,,♠,,,,C,,
+pic-13,,,,,,♠,,,,D,,
+pic-14,,,,,,♠,,,,R,,
+trefle-11,,,,,,,♣ ,,,,V,
+trefle-12,,,,,,,♣ ,,,,C,
+trefle-13,,,,,,,♣ ,,,,D,
+trefle-14,,,,,,,♣ ,,,,R,
+trick-1,,⬤ ,,,,,,,,,,1
+trick-2,,⬤ ,,,,,,,,,,2
+trick-3,,⬤ ,,,,,,,,,,3
+trick-4,,⬤ ,,,,,,,,,,4
+trick-5,,⬤ ,,,,,,,,,,5
+trick-6,,⬤ ,,,,,,,,,,6
+trick-7,,⬤ ,,,,,,,,,,7
+trick-8,,⬤ ,,,,,,,,,,8
+trick-9,,⬤ ,,,,,,,,,,9
+trick-10,,⬤ ,,,,,,,,,,10
+trick-11,,⬤ ,,,,,,,,,,11
+trick-12,,⬤ ,,,,,,,,,,12
+trick-13,,⬤ ,,,,,,,,,,13
+trick-14,,⬤ ,,,,,,,,,,14
+trick-15,,⬤ ,,,,,,,,,,15
+trick-16,,⬤ ,,,,,,,,,,16
+trick-17,,⬤ ,,,,,,,,,,17
+trick-18,,⬤ ,,,,,,,,,,18
+trick-19,,⬤ ,,,,,,,,,,19
+trick-20,,⬤ ,,,,,,,,,,20
