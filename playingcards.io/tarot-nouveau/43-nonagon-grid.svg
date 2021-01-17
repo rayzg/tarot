@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.7548318in"
+   height="6.5858169in"
+   viewBox="0 0 171.57274 167.27974"
+   version="1.1"
+   id="svg824"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="43-nonagon-grid.svg">
+  <defs
+     id="defs818" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58601309"
+     inkscape:cx="324.23194"
+     inkscape:cy="316.11922"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="1909"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     units="in"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-paths="false"
+     inkscape:snap-center="false"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1414"
+       units="pt"
+       spacingx="0.79375001"
+       spacingy="0.79375001"
+       originx="-24.60643"
+       originy="-96.541302" />
+    <sodipodi:guide
+       position="32.785417,12.630299"
+       orientation="1,0"
+       id="guide1491"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="38.509098,12.608689"
+       orientation="1,0"
+       id="guide1493"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="108.10347,36.143449"
+       orientation="1,0"
+       id="guide1503"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="116.10988,34.772659"
+       orientation="1,0"
+       id="guide1505"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="126.94611,-59.845569"
+       orientation="1,0"
+       id="guide1243"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="133.83044,89.473686"
+       orientation="1,0"
+       id="guide1245"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="147.15675,111.93661"
+       orientation="1,0"
+       id="guide1247"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152.88043,111.60411"
+       orientation="1,0"
+       id="guide1249"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="128.10094,45.639156"
+       orientation="0,1"
+       id="guide1266"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="77.821778,50.842926"
+       orientation="1,0"
+       id="guide1279"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150.01859,104.84175"
+       orientation="0,1"
+       id="guide1294"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="130.96861,85.791726"
+       orientation="0,1"
+       id="guide1298"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85.786375,118.56491"
+       orientation="0,1"
+       id="guide682"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-136.52519,160.63369"
+       orientation="0,1"
+       id="guide711"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-171.03154,195.69646"
+       orientation="1,0"
+       id="guide713"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-230.44286,78.149606"
+       orientation="1,0"
+       id="guide1529"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="heptagon"
+     style="display:inline"
+     transform="translate(-22.163635,-56.060125)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 69.850073,223.16348 12.7,-26.37181 12.7,26.37181 z"
+       id="path244"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 95.250073,223.16348 12.699997,-26.37182 12.7,26.37182 z"
+       id="path1069"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 120.65007,223.16348 12.7,-26.37182 12.7,26.37182 z"
+       id="path1071"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 82.550073,196.79167 12.7,-26.37182 12.699997,26.37182 z"
+       id="path1073"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 107.95007,196.79167 12.7,-26.37182 12.7,26.37182 z"
+       id="path1075"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 95.250073,170.41985 12.699997,-26.37182 12.7,26.37182 z"
+       id="path1079"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937" />
+    <g
+       id="g1226"
+       transform="matrix(0.49879168,-0.62546529,0.62546529,0.49879168,-66.230533,354.64938)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="-4.704954"
+       inkscape:transform-center-y="-39.557724"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1214"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1216"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1218"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1220"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1222"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1224"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1242"
+       transform="matrix(-0.17801718,-0.77994222,0.77994222,-0.17801718,164.00507,411.5357)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="42.804956"
+       inkscape:transform-center-y="-37.144749"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1230"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1232"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1234"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1236"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1238"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1240"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1256"
+       transform="matrix(-0.7207753,-0.34710653,0.34710653,-0.7207753,352.03006,266.99826)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="34.326925"
+       inkscape:transform-center-y="10.843865"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1244"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1246"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1248"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1250"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1252"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1254"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1270"
+       transform="matrix(-0.49879168,-0.62546529,-0.62546529,0.49879168,282.13055,354.64938)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="4.7049562"
+       inkscape:transform-center-y="-39.557724"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1258"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1260"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1262"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1264"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1266"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1268"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1284"
+       transform="matrix(0.17801718,-0.77994222,-0.77994222,-0.17801718,51.894935,411.5357)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="-42.804957"
+       inkscape:transform-center-y="-37.144749"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1272"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1274"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1276"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1278"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1280"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1282"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1298"
+       transform="matrix(0.7207753,-0.34710653,-0.34710653,-0.7207753,-136.13004,266.99826)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="-34.326925"
+       inkscape:transform-center-y="10.843865"
+       inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
+       inkscape:export-xdpi="150.03937"
+       inkscape:export-ydpi="150.03937">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 293.94322,104.98452 15.875,-32.964772 15.875,32.964772 z"
+         id="path1286"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1288"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 357.44322,104.98452 15.875,-32.964777 15.875,32.964777 z"
+         id="path1290"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 309.81822,72.019748 15.875,-32.964772 15.875,32.964772 z"
+         id="path1292"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 341.56822,72.019748 15.875,-32.964777 15.875,32.964777 z"
+         id="path1294"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.44097224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 325.69322,39.054976 15.875,-32.964772 15.875,32.964772 z"
+         id="path1296"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
