@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="108.0500025pt" height="108.0500025pt" viewBox="0 0 38.1176397708 38.1176397708" id="svg824" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)" sodipodi:docname="tile-1.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.4753206" inkscape:cx="867.89533" inkscape:cy="271.58831" inkscape:document-units="pt" inkscape:current-layer="layer9" showgrid="true" inkscape:window-width="2880" inkscape:window-height="1526" inkscape:window-x="2869" inkscape:window-y="-11" inkscape:window-maximized="1" units="pt" inkscape:snap-text-baseline="true" inkscape:snap-midpoints="true" inkscape:snap-bbox="false" inkscape:bbox-nodes="true" inkscape:bbox-paths="false" showguides="false" inkscape:guide-bbox="true" inkscape:snap-grids="true" inkscape:snap-to-guides="true" inkscape:snap-intersection-paths="false" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-bbox-midpoints="false" inkscape:snap-nodes="true" inkscape:snap-others="true" inkscape:snap-object-midpoints="true" inkscape:snap-smooth-nodes="true">
+    <inkscape:grid type="xygrid" id="grid1414" units="pt" spacingx="0.79375002" spacingy="0.79375002"/>
+    <sodipodi:guide position="57.391847,109.17161" orientation="1,0" id="guide1491" inkscape:locked="false"/>
+    <sodipodi:guide position="63.115529,109.15" orientation="1,0" id="guide1493" inkscape:locked="false"/>
+    <sodipodi:guide position="132.7099,132.68476" orientation="1,0" id="guide1503" inkscape:locked="false"/>
+    <sodipodi:guide position="140.71631,131.31397" orientation="1,0" id="guide1505" inkscape:locked="false"/>
+    <sodipodi:guide position="151.55254,36.695739" orientation="1,0" id="guide1243" inkscape:locked="false"/>
+    <sodipodi:guide position="158.43687,186.015" orientation="1,0" id="guide1245" inkscape:locked="false"/>
+    <sodipodi:guide position="171.76318,208.47792" orientation="1,0" id="guide1247" inkscape:locked="false"/>
+    <sodipodi:guide position="177.48686,208.14542" orientation="1,0" id="guide1249" inkscape:locked="false"/>
+    <sodipodi:guide position="102.42821,147.38424" orientation="1,0" id="guide1279" inkscape:locked="false"/>
+    <sodipodi:guide position="174.62502,201.38306" orientation="0,1" id="guide1294" inkscape:locked="false"/>
+    <sodipodi:guide position="155.57504,182.33304" orientation="0,1" id="guide1298" inkscape:locked="false"/>
+  </sodipodi:namedview>
+  <metadata id="metadata821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="tile-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-234.950021,-225.425005)"><g id="g1350" inkscape:label="1">
+      <rect ry="6.6644088e-06" rx="6.6644088e-06" y="243.02501" x="234.95003" height="38.117641" width="38.117641" id="rect1327" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.01763888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" transform="translate(0,-17.599999)"/>
+      <path id="path1331" d="m 254.0089,227.01324 a 17.470584,17.470584 0 0 0 -17.47059,17.47059 17.470584,17.470584 0 0 0 17.47059,17.47058 17.470584,17.470584 0 0 0 17.47058,-17.47058 17.470584,17.470584 0 0 0 -17.47058,-17.47059 z m 0,3.17647 a 14.294115,14.294115 0 0 1 14.29411,14.29412 14.294115,14.294115 0 0 1 -14.29411,14.29411 14.294115,14.294115 0 0 1 -14.29412,-14.29411 14.294115,14.294115 0 0 1 14.29412,-14.29412 z" style="display:inline;opacity:1;fill:#c088d0;fill-opacity:1;stroke:none;stroke-width:0.01763888;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" inkscape:connector-curvature="0"/>
+    </g>
+  </g></svg>
